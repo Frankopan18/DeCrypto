@@ -1,0 +1,5 @@
+text=No one can read what says here,
+even if it goes to more lines
+and ever
+and forever
+secretKey=OvoSigurnoNikoNecePogodit???
