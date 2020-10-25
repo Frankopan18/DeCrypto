@@ -88,7 +88,7 @@ public class CryptMenu {
 	private void initialize() {
 
 		frmdecryptoApp = new JFrame();
-		frmdecryptoApp.setTitle("(De)Crypto App");
+		frmdecryptoApp.setTitle("(De)Crypto App - Digital Signature");
 		frmdecryptoApp.setBounds(100, 100, 651, 304);
 		frmdecryptoApp.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmdecryptoApp.getContentPane().setLayout(null);
